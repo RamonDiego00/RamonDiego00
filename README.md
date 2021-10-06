@@ -7,8 +7,13 @@
  <div>
   <a href="https://github.com/RamoDiego00">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RamonDiego00&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonDiego00&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
+ 
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RamonDiego00)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
 <div style="display: inline_block"><br>
 <div style="display: inline_block"><br>
  
@@ -78,5 +83,7 @@
   <a href="https://www.linkedin.com/in/ramon-diego-dos-santos-ferreira-8772b11b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/RamonDiego00/RamonDiego00/blob/output/github-contribution-grid-snake.svg)
+   
+
  
 </div>
