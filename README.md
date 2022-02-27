@@ -1,6 +1,6 @@
 ### Eaee! Eu sou o Ramon Diego 🤵🏾 
 
-- 🔭  Atualmente estudando pela instituição PROA
+- 🔭  Atualmente estudando pela UFABC
 - 🌱  Estudando Banco de Dados e Javascript
 - 🏃‍♂️ Pretendo me tornar senior em algum framework de front e de back
 
