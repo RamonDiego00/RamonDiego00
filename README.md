@@ -1,8 +1,8 @@
 ### Eaee! Eu sou o Ramon Diego 🤵🏾 
 
-- 🔭  Atualmente estudando pela UFABC
-- 🌱  Estudando Banco de Dados e Javascript
-- 🏃‍♂️ Pretendo me tornar senior em algum framework de front e de back
+- 🔭  Ciencias da computação pela UFABC
+- 🌱  Foco em Kotlin e java
+- 🏃‍♂️  Em busca do dominio mobile
 
  
 
