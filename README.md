@@ -5,21 +5,13 @@
 - 🏃‍♂️  Em busca do dominio mobile
 
  
-
  <div style="display: flex"
       "justify-content: space-between">
  
   <a href="https://github.com/RamonDiego00">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RamonDiego00&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> -->
-   
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamonDiego00&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true")
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RamonDiego00&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> 
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonDiego00&layout=compact&langs_count=20&theme=midnight-purple"/>
 </div>
- 
-
- 
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RamonDiego00)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <div style="display: inline_block"><br>
