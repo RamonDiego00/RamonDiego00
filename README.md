@@ -1,9 +1,5 @@
 ### Eaee! Eu sou o Ramon Diego 🤵🏾 
 
-- 🔭  Ciencias da computação pela UFABC
-- 🌱  Foco em Kotlin e java
-- 🏃‍♂️  Em busca do dominio mobile
-
  
  <div style="display: flex"
       "justify-content: space-between">
